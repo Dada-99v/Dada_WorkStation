@@ -1,4 +1,10 @@
 # Dada_WorkStation
+
+# 归档链hash存储结构
+    a.jhash算法（http://burtleburtle.net/bob/hash/）
+    b.khash存储结构（http://research.cs.vt.edu/AVresearch/hashing/quadratic.php）
+    c.本hash存储采取链式结构解决hash冲突
+
 # 数据结构归档
     1、链表
         a.单链
